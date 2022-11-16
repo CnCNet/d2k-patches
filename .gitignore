@@ -1,0 +1,15 @@
+# object files
+*.o
+
+# patched machine code
+*.exe
+
+# configuration
+config.mk
+
+# Nix GC Roots
+result*
+
+# misc junk
+*~
+\#*\#
